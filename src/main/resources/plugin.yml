@@ -1,0 +1,4 @@
+name: CantDrop
+version: '0'
+main: io.github.seamo.cantDrop.CantDrop
+api-version: '1.21'
